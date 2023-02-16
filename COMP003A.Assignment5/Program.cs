@@ -67,7 +67,7 @@ namespace COMP003A.Assignment5
                 for (int k = 0; k <= i; k++)
                 {
                     Console.Write(inputCharacter);
-                }
+                }    
                 Console.WriteLine();
             }
         }
